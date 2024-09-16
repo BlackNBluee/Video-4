@@ -1,2 +1,2 @@
-Video 3
-Both code for understanding table and basic tags
+Video 4
+Bookmark added for resources in linus
