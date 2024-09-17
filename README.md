@@ -1,2 +1,4 @@
-Video 3
-Both code for understanding table and basic tags
+Video 4.
+Anchor Tag's additional attributes.
+Bookmark added for resources in linus.
+Semantic Tag folder.
